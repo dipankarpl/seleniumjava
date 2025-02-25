@@ -2,4 +2,4 @@ demo
 
 added text in branch
 
-added in master
+deleted in master
